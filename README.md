@@ -69,11 +69,11 @@ npm run dev
 ## 🔐 테스트 계정
 
 ### 일반 사용자
-- **이메일 주소**: yamada@example.com
+- **이메일 주소**: user@example.com
 - **암호**: Password123
 
 ### 관리자
-- **이메일 주소**: tanaka@example.com
+- **이메일 주소**: admin@example.com
 - **암호**: Password123
 
 ## 📁 프로젝트 구성
